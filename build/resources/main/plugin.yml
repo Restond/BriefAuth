@@ -1,0 +1,11 @@
+main: com.briefauth.BriefAuth
+version: 1.0
+api-version: Paper-1.12.2
+name: "BriefAuth"
+commands:
+  login:
+    aliases:
+      - "l"
+      - "L"
+    description: "Login or register"
+    usage: "/login <PASSWORD>"
